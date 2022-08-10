@@ -1,5 +1,5 @@
 <?php 
-$contrasena = "enrique123@";
+$contrasena = "enrique15@";
 $usuario = "joseenrique";
 $nombre_bd = "crud";
 
